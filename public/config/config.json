@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xad822408B08eCC463f9b689dAE40F09F6c76E456",
+  "SCAN_LINK": "https://etherscan.io/address/0xc2d8a9615eC66A21727e9d91e5f86154db04b159",
+  "NETWORK": {
+    "NAME": "Rinkbey Ethereum ",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "MACC NFT",
+  "SYMBOL": "MACC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mutant-age-camel-club",
+  "SHOW_BACKGROUND": true
+}
